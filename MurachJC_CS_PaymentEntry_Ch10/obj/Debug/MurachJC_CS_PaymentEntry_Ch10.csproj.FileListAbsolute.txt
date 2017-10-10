@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\bin\Debug\MurachJC_CS_PaymentEntry_Ch10.exe
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\bin\Debug\MurachJC_CS_PaymentEntry_Ch10.pdb
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\bin\Debug\PayablesData.dll
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\bin\Debug\PayablesData.pdb
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.frmAddInvoice.resources
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.frmAddModifyVendor.resources
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.frmFindVendor.resources
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.frmLineItems.resources
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.frmVendorInvoices.resources
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.exe
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Debug\MurachJC_CS_PaymentEntry_Ch10.pdb

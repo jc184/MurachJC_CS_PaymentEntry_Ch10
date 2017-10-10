@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\bin\Debug\PayablesData.dll
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\bin\Debug\PayablesData.pdb
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Debug\PayablesData.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Debug\PayablesData.dll
+c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Debug\PayablesData.pdb
