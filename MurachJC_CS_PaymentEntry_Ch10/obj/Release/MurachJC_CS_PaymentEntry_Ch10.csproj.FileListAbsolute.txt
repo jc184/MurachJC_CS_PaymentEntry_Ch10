@@ -12,3 +12,19 @@ c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch1
 c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.exe
 c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.pdb
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\bin\Release\MurachJC_CS_PaymentEntry_Ch10.exe
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\bin\Release\MurachJC_CS_PaymentEntry_Ch10.pdb
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\bin\Release\PayablesData.dll
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\bin\Release\PayablesData.pdb
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.frmAddInvoice.resources
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.frmAddModifyVendor.resources
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.frmFindVendor.resources
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.frmLineItems.resources
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.frmVendorInvoices.resources
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.Properties.Resources.resources
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.csproj.GenerateResource.cache
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.csproj.CopyComplete
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.exe
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\MurachJC_CS_PaymentEntry_Ch10\obj\Release\MurachJC_CS_PaymentEntry_Ch10.pdb

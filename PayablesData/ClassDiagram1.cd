@@ -8,7 +8,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="PayablesData.LineItem">
-    <Position X="8.25" Y="0.5" Width="1.5" />
+    <Position X="8.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAIAAAAAAgAAAAOAABABCAAQAAgAAgAAAAAAAAACA=</HashCode>
       <FileName>LineItem.cs</FileName>
@@ -50,7 +50,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="PayablesData.GLAccount">
-    <Position X="8.25" Y="4.75" Width="1.5" />
+    <Position X="8.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAgAAAAIAABAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GLAccount.cs</FileName>
@@ -92,7 +92,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="PayablesData.GLAccountDB">
-    <Position X="8.25" Y="7.5" Width="1.5" />
+    <Position X="8.5" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GLAccountDB.cs</FileName>

@@ -3,3 +3,9 @@ c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch1
 c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Release\PayablesData.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Release\PayablesData.dll
 c:\users\user\documents\visual studio 2015\Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Release\PayablesData.pdb
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\bin\Release\PayablesData.dll
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\bin\Release\PayablesData.pdb
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Release\PayablesData.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Release\PayablesData.dll
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Release\PayablesData.pdb
+C:\Users\james\OneDrive\USER-PC Visual Studio 2015 Projects\MurachJC_CS_PaymentEntry_Ch10\PayablesData\obj\Release\PayablesData.csprojAssemblyReference.cache
